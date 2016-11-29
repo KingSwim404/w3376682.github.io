@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: KingSwim'Blog
 subtitle:
 description:
-author: John Doe
-language:
+author: KingSwim
+language: zh-CN
 timezone:
 
 # URL
@@ -69,4 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/w3376682/w3376682.github.io.git
+  repo: git@github.com:w3376682/w3376682.github.io.git
+  branch: master
